@@ -1,0 +1,1 @@
+import{bg as o}from"./index.46a27899.js";function c(t){return o.get(`/account-groups/${t}`)}function n(){return o.get("/account-groups")}function r(t){return o.post("/account-groups",t)}function e(t){return o.delete(`/account-groups/${t}`)}export{e as d,n as f,c as g,r as s};

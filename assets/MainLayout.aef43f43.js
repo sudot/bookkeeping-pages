@@ -1,0 +1,1 @@
+import{_ as r,ab as t,f as e,j as a,k as c,bq as s,br as i}from"./index.46a27899.js";const _={};function m(f,l){const n=t("router-view");return e(),a(n,{name:"mainView"},{default:c(({Component:o})=>[(e(),a(s,{max:1,include:"TransactionMain"},[(e(),a(i(o)))],1024))]),_:1})}var u=r(_,[["render",m]]);export{u as default};

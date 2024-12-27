@@ -1,0 +1,1 @@
+import{Q as r}from"./QPage.7824d0da.js";import{_ as c,ab as a,f as s,j as _,k as e,m as o,q as l}from"./index.46a27899.js";const d={};function f(p,u){const t=a("nav-bar"),n=a("MainWrapperLayout");return s(),_(n,null,{default:e(()=>[o(r,null,{default:e(()=>[o(t,{"show-back":!1},{default:e(()=>[l("scheduled")]),_:1})]),_:1})]),_:1})}var h=c(d,[["render",f]]);export{h as default};

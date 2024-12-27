@@ -1,0 +1,1 @@
+import{c as n}from"./currency.es.c7e1cdbb.js";const t=r=>n(r,{separator:",",symbol:""}),m=(r,o)=>o==="Transfer"?t(n(r).value<0?-r:r).format():(n(r).value>0?"+":"")+t(r).format(),s=(r,o)=>o==="Transfer"||r===0?"":(r=n(r).value,r>0?"income":r<0?"expend":"");export{m as a,t as b,s as m};

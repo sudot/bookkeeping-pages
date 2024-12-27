@@ -1,0 +1,1 @@
+import{aY as e}from"./index.46a27899.js";const r=e("layout",{state:()=>({scrollerOffset:[10,10]}),getters:{},actions:{storeScrollerOffset(t){this.scrollerOffset=[this.scrollerOffset[0]-t.delta.x,this.scrollerOffset[1]-t.delta.y]}}});export{r as u};
