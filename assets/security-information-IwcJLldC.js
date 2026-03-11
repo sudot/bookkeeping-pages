@@ -1,0 +1,1 @@
+import{bb as o}from"./index-MzTjxYmz.js";import{p as r}from"./index-B9EC0fGR.js";function e(t){return o.get(`/security-information/${t}`)}function a(){return o.getProtoRows("/security-information",r.SecurityInformation.Rows)}function f(t){return o.post("/security-information",t)}function s(t){return o.delete(`/security-information/${t}`)}export{s as d,a as f,e as g,f as s};

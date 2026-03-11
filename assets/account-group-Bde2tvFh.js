@@ -1,0 +1,1 @@
+import{aH as n}from"./index-MzTjxYmz.js";const r=Object.freeze({ADDED:1,UPDATED:2,DELETED:3}),u=n("accountGroup",{state:()=>({event:{data:void 0,type:void 0}}),getters:{},actions:{publish(e,t){this.event={data:e,type:t}}}});export{r as A,u};

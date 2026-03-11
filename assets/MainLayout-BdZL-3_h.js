@@ -1,0 +1,1 @@
+import{_ as t,ag as r,f as e,j as a,k as c,aw as s,ax as i}from"./index-MzTjxYmz.js";const _={};function m(f,l){const n=r("router-view");return a(),e(n,{name:"mainView"},{default:c(({Component:o})=>[(a(),e(s,{max:1,include:"TransactionMain"},[(a(),e(i(o)))],1024))]),_:1})}const u=t(_,[["render",m]]);export{u as default};

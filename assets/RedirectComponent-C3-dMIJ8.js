@@ -1,0 +1,1 @@
+import{d as t,B as s,u as n,b as o}from"./index-MzTjxYmz.js";const r=t({name:"RedirectComponent",setup(){const{params:e,query:a}=s();return n().replace({path:"/"+e.path,query:a}),()=>o("span")}});export{r as default};
